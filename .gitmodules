@@ -1,0 +1,3 @@
+[submodule "Rainbow-RL-Agent"]
+	path = rainbow
+	url = https://github.com/ClementPerroud/Rainbow-RL-Agent.git
