@@ -19,7 +19,7 @@ One validation is made every 30 000 steps on 5 parallelized training environment
 ## Validation Results
 
 After 1h of training :
-```bash
+```python
 Market Return : -36.93%   |   Portfolio Return : -4.01%   |   Position Changes : 12.43%   |   Max Drawdown : -37.56%
 Market Return : -36.93%   |   Portfolio Return : -19.18%   |   Position Changes : 12.51%   |   Max Drawdown : -49.14%
 Market Return : -24.95%   |   Portfolio Return : -14.29%   |   Position Changes : 11.30%   |   Max Drawdown : -29.71%
